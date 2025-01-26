@@ -59,15 +59,16 @@ img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhany7420&" alt="mohamedhany7420" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhany7420&show_icons=true&locale=en&layout=compact" alt="mohamedhany7420" /></p>
 
-
-
-## My Projects
+## Top Projects
 
 ### Your Eyes
 - **Description**: A project that utilizes Firebase services, API integration, ZEGOCLOUD's Video Call SDK, and TensorFlow Lite (tflite) for enhanced functionality.
 - **Tools**: Firebase Services, API integration, ZEGOCLOUD Video Call SDK, tflite.
-- **Video Preview**: [Google Play Video](#) ([link to be added](https://www.linkedin.com/feed/update/urn:li:activity:7090810953637761024?utm_source=share&utm_medium=member_desktop)).
-
+- **Video Preview**: 
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7090810953637761024?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="https://img.shields.io/badge/video-preview-logo?style=for-the-badge&logo=video&logoColor=white&color=%23FF0000" alt="video-preview" />
+  </a>
+  
 ## Recent Activity
 
 - **Pushed** to [Your-Book-App](https://github.com/mohamedhany7420/Your-Book-App) - handling URL launcher and converting UI to responsive UI.
