@@ -24,6 +24,8 @@ Your Eyes
 
 ## GitHub Stats
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhany7420&" alt="mohamedhany7420" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhany7420&show_icons=true&locale=en&layout=compact" alt="mohamedhany7420" /></p>
 
 
 ## Recent Activity
