@@ -1,11 +1,12 @@
 <h1>Hi 👋, I'm Mohamed Hany</h1>
-a passionate Flutter developer with a knack for creating beautiful and functional mobile applications.
-With a strong foundation in Dart and a keen eye for design,
-I strive to build seamless and engaging user experiences.
 
+Software Development Engineer | Flutter Developer
 
 ## About Me
 
+a passionate Flutter developer with a knack for creating beautiful and functional mobile applications.
+With a strong foundation in Dart and a keen eye for design,
+I strive to build seamless and engaging user experiences.
 - 🚀 Skills: My expertise includes state management, architecture pattern, animations, custom widgets, and integrating RESTful APIs. I'm also proficient in using tools like Git, Firebase, and various third-party libraries.
 - 💡 Learning: I'm always eager to learn and stay updated with the latest trends and technologies in the Flutter ecosystem.
 
@@ -34,6 +35,7 @@ I strive to build seamless and engaging user experiences.
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" />
   </a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
+
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
   </a>
