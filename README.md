@@ -49,12 +49,6 @@ I strive to build seamless and engaging user experiences.
   <a target="_blank" href="https://www.vectorlogo.zone/logos/android/android-icon.svg" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android-studio" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-icon.svg" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-icon.svg" alt="visual-studio-code" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="c++" width="42" height="42" />
-  </a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" />
   </a>
