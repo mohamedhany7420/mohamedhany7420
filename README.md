@@ -33,10 +33,7 @@ I strive to build seamless and engaging user experiences.
   <a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;">
-    <
-img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" />
-  </a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
   </a>
@@ -64,8 +61,7 @@ img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" 
 ### Your Eyes
 - **Description**: A project that utilizes Firebase services, API integration, ZEGOCLOUD's Video Call SDK, and TensorFlow Lite (tflite) for enhanced functionality.
 - **Tools**: Firebase Services, API integration, ZEGOCLOUD Video Call SDK, tflite.
-- **Video Preview**: 
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7090810953637761024?utm_source=share&utm_medium=member_desktop" target="_blank">
+- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7090810953637761024?utm_source=share&utm_medium=member_desktop" target="_blank">
     <img src="https://img.shields.io/badge/video-preview-logo?style=for-the-badge&logo=video&logoColor=white&color=%23FF0000" alt="video-preview" />
   </a>
   
