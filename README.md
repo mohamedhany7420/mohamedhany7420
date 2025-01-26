@@ -1,5 +1,4 @@
-## Hi there! 👋
-
+<h1>Hi 👋, I'm Mohamed Hany</h1>
 a passionate Flutter developer with a knack for creating beautiful and functional mobile applications.
 With a strong foundation in Dart and a keen eye for design,
 I strive to build seamless and engaging user experiences.
@@ -35,7 +34,8 @@ I strive to build seamless and engaging user experiences.
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" />
   </a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" />
+    <
+img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" />
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
@@ -59,6 +59,14 @@ I strive to build seamless and engaging user experiences.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhany7420&" alt="mohamedhany7420" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhany7420&show_icons=true&locale=en&layout=compact" alt="mohamedhany7420" /></p>
 
+
+
+## My Projects
+
+### Your Eyes
+- **Description**: A project that utilizes Firebase services, API integration, ZEGOCLOUD's Video Call SDK, and TensorFlow Lite (tflite) for enhanced functionality.
+- **Tools**: Firebase Services, API integration, ZEGOCLOUD Video Call SDK, tflite.
+- **Video Preview**: [Google Play Video](#) ([link to be added](https://www.linkedin.com/feed/update/urn:li:activity:7090810953637761024?utm_source=share&utm_medium=member_desktop)).
 
 ## Recent Activity
 
