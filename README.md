@@ -66,9 +66,4 @@ I strive to build seamless and engaging user experiences.
 - <a href="https://www.linkedin.com/feed/update/urn:li:activity:7090810953637761024?utm_source=share&utm_medium=member_desktop" target="_blank">
     <img src="https://img.shields.io/badge/video-preview-logo?style=for-the-badge&logo=video&logoColor=white&color=%23FF0000" alt="video-preview" />
   </a>
-  
-## Recent Activity
-
-- **Pushed** to [Your-Book-App](https://github.com/mohamedhany7420/Your-Book-App) - handling URL launcher and converting UI to responsive UI.
-- **Updated** [Your-Book-App](https://github.com/mohamedhany7420/Your-Book-App) - Updated README.md.
 
