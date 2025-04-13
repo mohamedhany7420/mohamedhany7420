@@ -14,8 +14,6 @@ I strive to build seamless and engaging user experiences.
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-hany-4b4947248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/https://www.facebook.com/share/1A3LNwBKoU/?mibextid=wwXIfr" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/mohamed_hany7420" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/20650276/mohamed-hany" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
 <a href="mailto:mohamedhany1892@gmail.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335" alt="gmail" />
